@@ -1,8 +1,8 @@
 # 🦝 Christopher McColloser
 
-My name is Christopher McColloser. I am currently a junior pursuing a degree in Computer Science / Cybersecurity at Louisiana State University.
+My name is Christopher McColloser. I am currently a junior pursuing a degree in Computer Science/Cybersecurity at Louisiana State University.
 
-I have always loved technology. As a child I played far too many video games for my own good and had countless online interactions. Though possibly toxic, these interactions shaped me as a person and my interest in Computer Science sprouted from wanting to give back and provide the same experiences for countless others.
+As a child, I always wondered how some wiring in a plastic/metal case could display colorful imagery across a television screen; however, it was not always cheerful. Being a naive kid, I was susceptible to viruses and malware that ran rampant online and succumbed to their attacks. As I aged, I realized that I wanted to protect the online world from those dangers by seeing how they ticked and prevent the same events that happened to me from happening to someone else. 
 
 ### 👨🏻‍💻 Things I frequently use.
 <img align="left" alt="Java" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
